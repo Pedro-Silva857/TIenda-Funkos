@@ -5,7 +5,7 @@ const NavBar = () => {
         <nav>
             <h1 className="left-px  text-white font-bold bg-black text-2xl">FunkosPe</h1>
             <div className="text-2xl text-white uppercase font-bold text-center ">
-            
+              
                     <a href="#" className=" hover:bg-green-300  hover:text-black   pl-1 pr-1 m-3 box-content bg-gray-500 ">Ofertas</a>
                
                     <a href="#" className=" hover:bg-green-300  hover:text-black   pl-1 pr-1 m-3 box-content bg-gray-500 ">Detacados</a>
